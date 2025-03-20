@@ -1,0 +1,17 @@
+At the time, very few people cared, and if they did, it was mostly because they thought we had no chance of success.
+
+In 2022, OpenAI was a quiet research lab working on something temporarily called “Chat With GPT-3.5”. (We are much better at research than we are at naming things.) We had been watching people use the playground feature of our API and knew that developers were really enjoying talking to the model. We thought building a demo around that experience would show people something important about the future and help us make our models better and safer.
+
+We ended up mercifully calling it ChatGPT instead, and launched it on November 30th of 2022.
+
+We always knew, abstractly, that at some point we would hit a tipping point and the AI revolution would get kicked off. But we didn’t know what the moment would be. To our surprise, it turned out to be this.
+
+The launch of ChatGPT kicked off a growth curve like nothing we have ever seen—in our company, our industry, and the world broadly. We are finally seeing some of the massive upside we have always hoped for from AI, and we can see how much more will come soon.
+
+It hasn’t been easy. The road hasn’t been smooth and the right choices haven’t been obvious.
+
+In the last two years, we had to build an entire company, almost from scratch, around this new technology. There is no way to train people for this except by doing it, and when the technology category is completely new, there is no one at all who can tell you exactly how it should be done.
+
+Building up a company at such high velocity with so little training is a messy process. It’s often two steps forward, one step back (and sometimes, one step forward and two steps back). Mistakes get corrected as you go along, but there aren’t really any handbooks or guideposts when you’re doing original work. Moving at speed in uncharted waters is an incredible experience, but it is also immensely stressful for all the players. Conflicts and misunderstanding abound.
+
+These years have been the most rewarding, fun, best, interesting, exhausting, stressful, and—particularly for the last two—unpleasant years of my life so far. The overwhelming feeling is gratitude; I know that someday I’ll be retired at our ranch watching the plants grow, a little bored, and will think back at how cool it was that I got to do the work I dreamed of since I was a little kid. I try to remember that on any given Friday, when seven things go badly wrong by 1 pm
